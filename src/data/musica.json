@@ -5,13 +5,13 @@
     "colaboracion": "Adele Otomayo",
     "colors": ["bg-gradient-to-br from-[#4d23b09f]/30 via-[#4d23b09f]/60 to-[#4d23b09f]/10 border border-[#4d23b09f]"],
     "colors2": ["bg-clip-text text-transparent bg-gradient-to-br from-blue-600 via-violet-500 to-fuchsia-600 animate-pulse text-shadow-md text-shadow-white/10"],
-    "imagen": "media/img/CrackerIsland.jpg",
-    "video": "media/video/SilentRunning.mp4"
+    "imagen": "/mi-app/media/img/CrackerIsland.jpg",
+    "video": "/mi-app/media/video/SilentRunning.mp4"
   },
   "artistas": [
     {
       "nombre": "KENSHI YONEZU",
-      "imagen": "/media/img/KICKBACK.jpeg",
+      "imagen": "/mi-app/media/img/KICKBACK.jpeg",
       "canciones": [
         { "titulo": "KICK BACK", "src": "/media/audio/KICK_BACK.mp3" },
         { "titulo": "Hazukashi-kutte Shouga-ne", "src": "/media/audio/Hazukashi kutte Shouga ne.mp3" },
@@ -22,7 +22,7 @@
     },
     {
       "nombre": "HIKARU UTADA",
-      "imagen": "/media/img/HikaruUtada.jpg",
+      "imagen": "/mi-app/media/img/HikaruUtada.jpg",
       "canciones": [
         { "titulo": "Simple and Clean", "src": "/media/audio/Kingdom Hearts Intro Song - Simple and Clean (Full Version).mp3" },
         { "titulo": "Sanctuary" },
@@ -33,7 +33,7 @@
     },
     {
       "nombre": "DJ-JO",
-      "imagen": "/media/img/DjJo.jpg",
+      "imagen": "/mi-app/media/img/DjJo.jpg",
       "canciones": [
         { "titulo": "The Word", "src": "/media/audio/Nice Rice - The Word feat. Zenpaku.mp3" },
         { "titulo": "The Hylian Adventure (Dubstep Remix)" },
@@ -44,7 +44,7 @@
     },
     {
       "nombre": "EMINƎM",
-      "imagen": "/media/img/TES.jpg",
+      "imagen": "/mi-app/media/img/TES.jpg",
       "canciones": [
         { "titulo": "Cleanin' Out My Closet", "src": "/media/audio/COMC_Eminem.mp3" },
         { "titulo": "Mockingbird" },
@@ -55,7 +55,7 @@
     },
     {
       "nombre": "CANSERBERO",
-      "imagen": "/media/img/Muerte.jpg",
+      "imagen": "/mi-app/media/img/Muerte.jpg",
       "canciones": [
         { "titulo": "Y La Felicidad Qué", "src": "/media/audio/Canserbero   Y la Felicidad Qué.mp3" },
         { "titulo": "Jeremías 17-5" },

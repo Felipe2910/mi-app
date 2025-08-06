@@ -1,34 +1,34 @@
 {
   "destacada": {
     "titulo": "CHAINSAW MAN - La Película: REZE ARC",
-    "imagen": "media/img/RezeArc.webp",
+    "imagen": "/mi-app/media/img/RezeArc.webp",
     "alt": "Chainsaw Man",
     "trailer": "https://www.youtube.com/embed/d1n552v1ng0?si=zjji7VMy44DoCh92",
     "descripcion": "La producción de Chainsaw Man presentó hoy en Jump Festa 2025 con el primer adelanto completo del próximo arco llamado Chainsaw Man – The Movie: Reze, después de anunciar la película anime el año pasado en el mismo escenario.\n\nEl nuevo trailer reveló una fecha de estreno para 2025 en Japón y dos imágenes promocionales: una que muestra a Chainsaw Man y la otra que muestra a Denji y Reze.\n\nY, lo más importante, también se ha confirmado desde las redes sociales del anime que en Japón la película de Reze se estrenará el 19 de septiembre de 2025."
   },
   "galeria": [
     {
-      "imagen": "media/img/RevengeOfTheSith.jpg",
+      "imagen": "/mi-app/media/img/RevengeOfTheSith.jpg",
       "titulo": "LA VENGANZA DE LOS SITH",
       "descripcion": "Una de las mejores películas de STAR WARS."
     },
     {
-      "imagen": "media/img/SpiderMan3.jpg",
+      "imagen": "/mi-app/media/img/SpiderMan3.jpg",
       "titulo": "EL HOMBRE ARAÑA 3",
       "descripcion": "Conclusión de la trilogía de Sam Raimi."
     },
     {
-      "imagen": "media/img/DrCable.jpg",
+      "imagen": "/mi-app/media/img/DrCable.jpg",
       "titulo": "DR. CABLE",
       "descripcion": "Comedia al cubo, joya 100/10."
     },
     {
-      "imagen": "media/img/Terminator2.webp",
+      "imagen": "/mi-app/media/img/Terminator2.webp",
       "titulo": "EL EXTERMINADOR 2",
       "descripcion": "Clásico de la ciencia ficción."
     },
     {
-      "imagen": "media/img/GuardiansOfTheGalaxy.jpeg",
+      "imagen": "/mi-app/media/img/GuardiansOfTheGalaxy.jpeg",
       "titulo": "GUARDIANES DE LA GALAXIA VOL. 3",
       "descripcion": "\"I'm a creep... I'm a weirdo...\" 🎵"
     }

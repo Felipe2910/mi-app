@@ -5,12 +5,12 @@
       "estado": "En Espera / Película",
       "temporadas": "1 Temporada",
       "opinion": "Anime GOD 20/10: Acción, comedia y fantasía oscura.",
-      "imagen": "media/img/CSMp.jpg",
+      "imagen": "/mi-app/media/img/CSMp.jpg",
       "destacado": {
         "titulo": "CHAINSAW MAN - La Película: REZE ARC",
         "imagen": "media/img/newRezeArc.webp",
         "alt": "Chainsaw Man",
-        "gif": "media/img/CSMg2.gif",
+        "gif": "/mi-app/media/img/CSMg2.gif",
         "trailer": "https://www.youtube.com/embed/mWacdcatC9o?si=3doZ_R_osVtbhjSJ",
         "descripcion": "- Se estrena el 19 de Sep en Japón\n- Llega en Octubre a los cines de Latam"
       }
@@ -20,28 +20,28 @@
       "estado": "Saga Conclusa",
       "temporadas": "1 Temporada, 2 Películas, 1 Tetralogía",
       "opinion": "Clásico de culto Shonen/Mecha. Filosófico y profundo.",
-      "imagen": "media/img/NGEva.jpg"
+      "imagen": "/mi-app/media/img/NGEva.jpg"
     },
     {
       "nombre": "DR. STONE",
       "estado": "En Espera",
       "temporadas": "4 Teemporadas, 1 Especial",
       "opinion": "Ciencia + Aventura post-apocalíptica. Muy creativo.",
-      "imagen": "media/img/DrSTONEp.jpg"
+      "imagen": "/mi-app/media/img/DrSTONEp.jpg"
     },
     {
       "nombre": "ONE PUNCH MAN",
       "estado": "En Espera",
       "temporadas": "2 Temporadas, 2 Especiales",
       "opinion": "Héroe invencible y aburrido. ¿Habrá un rival digno?",
-      "imagen": "media/img/One_Punch_Man.webp"
+      "imagen": "/mi-app/media/img/One_Punch_Man.webp"
     },
     {
       "nombre": "GOLDENBOY",
       "estado": "Concluido",
       "temporadas": "1 Temporada (6 Episodios)",
       "opinion": "Yo Ese. 1000/10",
-      "imagen": "media/img/GoldenBoy.jpg"
+      "imagen": "/mi-app/media/img/GoldenBoy.jpg"
     }
   ]
 }

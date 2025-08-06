@@ -24,7 +24,7 @@ const App = () => {
 			icono: <House />,
 			color: "emerald-400",
 			titulo: "Bienvenido a Mi Mundo",
-			imagen: "media/img/Blue.gif",
+			imagen: "/mi-app/media/img/Blue.gif",
 		},
 		{
 			id: "peliculas",
@@ -32,8 +32,8 @@ const App = () => {
 			icono: <Film />,
 			color: "purple-400",
 			titulo: "Cine Favorito",
-			imagen: "media/img/homelanderATcinema.gif",
-			imagen2: "media/img/cineman.gif",
+			imagen: "/mi-app/media/img/homelanderATcinema.gif",
+			imagen2: "/mi-app/media/img/cineman.gif",
 		},
 		{
 			id: "anime",
@@ -41,8 +41,8 @@ const App = () => {
 			icono: <Tv />,
 			color: "orange-400",
 			titulo: "Anime Destacado",
-			imagen: "media/img/Anime01.gif",
-			imagen2: "media/img/Anime01.gif",
+			imagen: "/mi-app/media/img/Anime01.gif",
+			imagen2: "/mi-app/media/img/Anime01.gif",
 		},
 		{
 			id: "musica",
@@ -50,8 +50,8 @@ const App = () => {
 			icono: <Music />,
 			color: "red-500",
 			titulo: "Lo que me mueve",
-			imagen: "media/img/spongedance-4.gif",
-			imagen2: "media/img/spongedance-4.gif",
+			imagen: "/mi-app/media/img/spongedance-4.gif",
+			imagen2: "/mi-app/media/img/spongedance-4.gif",
 		},
 	];
 	const seccionActual = secciones.find((s) => s.id === paginaActual);
@@ -65,7 +65,7 @@ const App = () => {
 
 	return (
 		// Envuelve tu app en el provider
-		<ReproductorProvider>
+
 			<div className="min-h-[100dvh] bg-[#1a1a40] text-white font-sans">
 				<header className="bg-[#292c3e] shadow-md py-4 sticky top-0 z-50">
 					{seccionActual && (
@@ -109,14 +109,13 @@ const App = () => {
 					<hr className="border-gray-700 mb-4" />
 					<p className="text-yellow-300 text-2xl fortnite">Enhanced by Felips2910</p>
 					<img
-						src="media/img/RAW01.gif"
+						src="/mi-app/media/img/RAW01.gif"
 						className="mx-auto my-4 w-[360px] h-[480px] rounded-lg"
 						alt="RAW gif"
 					/>
 					<p>Felips 2024 MX. All rights reserved.</p>
 				</footer>
 			</div>
-		</ReproductorProvider>
 	);
 };
 
