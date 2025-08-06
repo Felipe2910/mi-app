@@ -1,0 +1,61 @@
+@import "tailwindcss";
+@plugin 'tailwind-scrollbar';
+
+@font-face {
+  font-family: "RocknRoll One";
+  src: url(/public/fonts/fontsRocknRollOne-Regular.ttf);
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Ravenna";
+  src: url(/public/fonts/fontsRavenna.ttf);
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Reggae One";
+  src: url(/public/fonts/fontsReggaeOne-Regular.ttf);
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Fortnite";
+  src: url(/public/fonts/Fortnite.ttf);
+  font-weight: normal;
+  font-style: normal;
+}
+
+.rocknroll {
+  font-family: "RocknRoll One", sans-serif;
+}
+
+.ravenna {
+  font-family: "Ravenna", sans-serif;
+}
+
+.reggae {
+  font-family: "Reggae One", sans-serif;
+}
+
+.fortnite {
+  font-family: "Fortnite", sans-serif;
+}
+
+@keyframes playing {
+  0%   { transform: scaleY(0.1); }
+  33%  { transform: scaleY(0.6); }
+  66%  { transform: scaleY(0.9); }
+  100% { transform: scaleY(0.1); }
+}
+
+.animate-playing {
+  animation: playing 1s infinite;
+}
+
+canvas:not([data-user-generated]) {
+	display: none !important;
+}

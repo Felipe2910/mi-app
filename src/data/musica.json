@@ -1,0 +1,68 @@
+{
+  "favorita": {
+    "titulo": "SILENT RUNNING",
+    "artista": "GORILLAZ",
+    "colaboracion": "Adele Otomayo",
+    "colors": ["bg-gradient-to-br from-[#4d23b09f]/30 via-[#4d23b09f]/60 to-[#4d23b09f]/10 border border-[#4d23b09f]"],
+    "colors2": ["bg-clip-text text-transparent bg-gradient-to-br from-blue-600 via-violet-500 to-fuchsia-600 animate-pulse text-shadow-md text-shadow-white/10"],
+    "imagen": "media/img/CrackerIsland.jpg",
+    "video": "media/video/SilentRunning.mp4"
+  },
+  "artistas": [
+    {
+      "nombre": "KENSHI YONEZU",
+      "imagen": "/media/img/KICKBACK.jpeg",
+      "canciones": [
+        { "titulo": "KICK BACK", "src": "/media/audio/KICK_BACK.mp3" },
+        { "titulo": "Hazukashi-kutte Shouga-ne", "src": "/media/audio/Hazukashi kutte Shouga ne.mp3" },
+        { "titulo": "Shinigami" },
+        { "titulo": "Sunanowakusei (+ Hatsune Miku)" },
+        { "titulo": "Kanden" }
+      ]
+    },
+    {
+      "nombre": "HIKARU UTADA",
+      "imagen": "/media/img/HikaruUtada.jpg",
+      "canciones": [
+        { "titulo": "Simple and Clean", "src": "/media/audio/Kingdom Hearts Intro Song - Simple and Clean (Full Version).mp3" },
+        { "titulo": "Sanctuary" },
+        { "titulo": "Face My Fears" },
+        { "titulo": "One Last Kiss" },
+        { "titulo": "Beautiful World (Da Capo Version)", "src": "/media/audio/Beautiful World (Da Capo Version).mp3" }
+      ]
+    },
+    {
+      "nombre": "DJ-JO",
+      "imagen": "/media/img/DjJo.jpg",
+      "canciones": [
+        { "titulo": "The Word", "src": "/media/audio/Nice Rice - The Word feat. Zenpaku.mp3" },
+        { "titulo": "The Hylian Adventure (Dubstep Remix)" },
+        { "titulo": "Where Our Blue Is (EDM Remix)" },
+        { "titulo": "Midna's Lament (Dubstep Remix)", "src": "/media/audio/Midna's Lament - dj-Jo Remix.mp3" },
+        { "titulo": "Tears of the Kingdom", "src": "/media/audio/TOTK Main Theme - DjJo Remix.mp3" }
+      ]
+    },
+    {
+      "nombre": "EMINƎM",
+      "imagen": "/media/img/TES.jpg",
+      "canciones": [
+        { "titulo": "Cleanin' Out My Closet", "src": "/media/audio/COMC_Eminem.mp3" },
+        { "titulo": "Mockingbird" },
+        { "titulo": "Superman" },
+        { "titulo": "Venom" },
+        { "titulo": "Headlights ft. Nate Ruess", "src": "/media/audio/Eminem   Headlights (Explicit) ft Nate Ruess.mp3" }
+      ]
+    },
+    {
+      "nombre": "CANSERBERO",
+      "imagen": "/media/img/Muerte.jpg",
+      "canciones": [
+        { "titulo": "Y La Felicidad Qué", "src": "/media/audio/Canserbero   Y la Felicidad Qué.mp3" },
+        { "titulo": "Jeremías 17-5" },
+        { "titulo": "Maquiavélico" },
+        { "titulo": "Hace Falta Soñar" },
+        { "titulo": "El Primer Trago", "src": "/media/audio/Canserbero   El Primer Trago.mp3" }
+      ]
+    }
+  ]
+}
