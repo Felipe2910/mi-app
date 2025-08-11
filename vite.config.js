@@ -4,6 +4,6 @@ import tailwindcss from '@tailwindcss/vite'
 import ColorThief from 'color-thief-browser';
 
 export default defineConfig({
-  base: 'https://felipe2910.github.io/mi-app/',
+  base: '/mi-app/',
   plugins: [react(), tailwindcss(), ColorThief()],
 })
