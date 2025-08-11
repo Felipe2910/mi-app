@@ -64,7 +64,6 @@ const App = () => {
 	};
 
 	return (
-		// Envuelve tu app en el provider
 
 			<div className="min-h-[100dvh] bg-[#1a1a40] text-white font-sans">
 				<header className="bg-[#292c3e] shadow-md py-4 sticky top-0 z-50">

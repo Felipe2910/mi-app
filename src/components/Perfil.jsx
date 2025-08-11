@@ -11,7 +11,7 @@ const Perfil = () => {
 			<div className="flex flex-col lg:flex-row items-center justify-center gap-6 bg-gradient-to-br from-emerald-500/30 via-emerald-500/60 to-emerald-500/10 border border-emerald-500 shadow rounded-lg p-6">
 				<div className="text-center">
 					<img
-						src="/media/img/F01.jpg"
+						src="/mi-app/media/img/F01.jpg"
 						className="w-[250px] rounded-lg mx-auto mb-4"
 						alt="Felipe"
 					/>
